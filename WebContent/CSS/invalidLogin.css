@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+div#log {
+	text-align: center;
+}
+
+div#log form {
+	display: inline-block;
+}
+
+.contenuto {
+	margin: auto;
+	background: silver;
+	width: 60%;
+}
+
+div#log td {
+	padding: 0.3em;
+}
+
+.error_box {
+    background-color: #FFEBE8;
+    border: 0.1em solid #DD3C10;
+    margin: 0 auto;
+    padding: 1em;
+    margin-top: 1em;
+}
